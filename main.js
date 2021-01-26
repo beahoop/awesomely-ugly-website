@@ -4,7 +4,7 @@
 // function changeImage1() {
 //     image1.src = "./images/Puppy3.jpg"
 // };
-image1.addEventListener('click', changeImage1);
+// image1.addEventListener('click', changeImage1);
 
 const imageBtn = document.querySelector('.imagebtn');
 const image2 = document.querySelector('.image2');
@@ -12,7 +12,7 @@ function changeImage2() {
   image2.src = "./images/dog1.gif";
 }
 
-// imageBtn.addEventListener('click', changeImage2);
+imageBtn.addEventListener('click', changeImage2);
 //
 // const image3 = document.querySelector('.image3');
 // function changeImage3() {
