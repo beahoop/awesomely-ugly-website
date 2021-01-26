@@ -3,7 +3,7 @@ console.log("hey");
 const image1 = document.querySelector('.image1');
 function changeImage1() {
   // if (image1.src = "./images/Puppy1.jpg") {
-    image1.src = "./images/Puppy3.JGP"
+    image1.src = "./images/Puppy3.jgp"
   // } else if(image1.src = "./images/Puppy1.jpg") {
   //   image1.src = "./images/Puppy1.jpg";
   // }
